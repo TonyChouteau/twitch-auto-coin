@@ -1,2 +1,2 @@
 # twitch-auto-coin
-Twitch auto coin claim
+Twitch auto coin claim (not working anymore)
